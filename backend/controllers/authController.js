@@ -68,6 +68,7 @@ const loginUser = async (req, res) => {
     res.status(200).json({
       success: true,
       token,
+      userid: user.id
     });
   } catch (error) {
     res.status(500).json({
