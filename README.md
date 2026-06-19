@@ -244,6 +244,6 @@ JWT_SECRET=your_secret_key
 
 ## 👨‍💻 Author
 
-Rameshwar Patil
+Rameshwar Urdukhe
 
 Built as a MERN Stack Internship Assignment Project.
