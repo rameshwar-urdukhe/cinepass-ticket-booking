@@ -245,7 +245,7 @@ JWT_SECRET=your_secret_key
 ## Live Demo
 
 Frontend:
-https://sortmyscene-ticket-booking-git-main-rameshwar.vercel.app/
+https://sortmyscene-ticket-booking.vercel.app
 
 Backend API:
 https://sortmyscene-ticket-booking.onrender.com
