@@ -242,6 +242,14 @@ JWT_SECRET=your_secret_key
 
 ---
 
+## Live Demo
+
+Frontend:
+https://your-project.vercel.app
+
+Backend API:
+https://your-backend.onrender.com
+
 ## 👨‍💻 Author
 
 Rameshwar Urdukhe
