@@ -123,7 +123,7 @@ function EventDetails() {
           />
         </svg>
         <p className="text-sm font-medium text-zinc-400 tracking-wider">
-          Loading ticketing architecture...
+          Loading...
         </p>
       </div>
     );
